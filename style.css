@@ -1,0 +1,25 @@
+
+.Titrevert{
+    color: green;
+}
+.t1{
+    text-align: center;
+    background-color: #380c0c;
+    color: aliceblue;
+}
+video{
+    margin-left: 50px ;
+}
+.tr{
+    color: red;
+}
+.im1{
+    text-align: left;
+}
+.im2{
+    text-align: right;
+}
+p{
+    background-color:orangered ;
+    color: aliceblue;
+}
